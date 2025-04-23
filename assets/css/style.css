@@ -22,4 +22,31 @@ h1 {
     color:slategray !important;
 }
 
+h2 {
+    color:slategray !important;
+}
 
+li {
+    list-style-position: inside;;
+    text-align: center;
+    margin: 0;
+    padding:0;
+}
+
+.intro-box {
+    box-sizing: content-box;
+    width: 100%;
+    border: solid #5d5d5d 10px;
+    padding: 5px;
+}
+
+.skills-box {
+    box-sizing: content-box;
+    width: 100%;
+    border: solid #5d5d5d 10px;
+    padding: 5px;
+}
+
+
+
+ 
